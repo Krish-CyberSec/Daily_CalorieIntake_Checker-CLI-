@@ -1,4 +1,4 @@
-✨ Daily Calorie Tracker Log ✨
+✨ Daily Calorie Tracker Sample Log ✨
 Name: krish
 Date: 03-10-2025
 Calorie Limit: 900.0
@@ -12,3 +12,4 @@ Breakfast       	300.0
 Total:			900.0
 Average:		300.0
 Status:			Maintained
+
