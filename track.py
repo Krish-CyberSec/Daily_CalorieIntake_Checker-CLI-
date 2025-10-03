@@ -19,7 +19,7 @@ result='' #Limit result
 User_Data={} #store final data
 N_user=input("Enter Your Name : ") # getting  the name of the user 
 Cal_Limit=float(input("Enter the max amount of calories you want to maintain : "))
-N_meal=int(input("\n How many Meals you want to add today? :  ")) # Checking how many meals the users wants to add today ?
+N_meal=int(input("How many Meals you want to add today? :  ")) # Checking how many meals the users wants to add today ?
 
 for i in range(N_meal):
     M_Name=input(f"Enter the Meal name {i+1}  : ") #Getting the meal name from the user
@@ -109,3 +109,4 @@ print("\n👋 Thank you for using the Daily Calorie Tracker. Stay healthy!")
 #             "Result":result
 
 #         }
+
