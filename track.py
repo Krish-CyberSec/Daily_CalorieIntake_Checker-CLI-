@@ -1,4 +1,3 @@
-import csv
 from datetime import datetime
 import os
 
@@ -108,4 +107,5 @@ print("\n👋 Thank you for using the Daily Calorie Tracker. Stay healthy!")
 #             "Toatal Calories": total_cal,
 #             "Avg calories intake":(total_cal)/len(Meal_Cal),
 #             "Result":result
+
 #         }
