@@ -1,6 +1,6 @@
 # Daily Calorie Tracker
 
-✨ A simple Python tool to help you track your daily calorie intake, log meals, and monitor your calorie goals.
+A simple Python tool to help you track your daily calorie intake, log meals, and monitor your calorie goals.
 
 ---
 
