@@ -25,4 +25,4 @@ A simple Python tool to help you track your daily calorie intake, log meals, and
 ```bash
 git clone https://github.com/Krish-CyberSec/daily-calorie-tracker.git
 
-
+```
