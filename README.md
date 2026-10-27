@@ -4,7 +4,7 @@ A simple Python tool to help you track your daily calorie intake, log meals, and
 
 ---
 
-## Features
+## Features.
 
 - Set a daily calorie limit.
 - Log meals with calorie counts.
